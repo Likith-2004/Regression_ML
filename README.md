@@ -38,10 +38,10 @@
 <h2 id="structure">📂 Project Structure</h2>
    
    
-📁 Types_of_Regression/
-│
-├── Types_of_Regression.ipynb    # Main notebook with explanations and code
-├── README.md                    # Project overview and documentation
+     📁 Types_of_Regression/
+      │
+      ├── Types_of_Regression.ipynb    # Main notebook with explanations and code
+      ├── README.md                    # Project overview and documentation
     
 <h2 id="requirements">🔧 Requirements</h2>
     
