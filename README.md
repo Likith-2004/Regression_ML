@@ -53,7 +53,7 @@
     
   Clone this repository:
         
-    git clone https://github.com/your-username/Types_of_Regression.git
+    git clone https://github.com/Likith-2004/Types_of_Regression.git
     
   Open the notebook:
   
